@@ -1,0 +1,35 @@
+.name {
+  font-size: 18px;
+  color: gray;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 22px;
+  color: gray;
+  font-weight: bold;
+}
+
+.price > .price-value {
+  font-size: 26px;
+  color: darkturquoise;
+}
+
+.description-name {
+  color: gray;
+  font-weight: bold;
+}
+
+.description-value {
+  color: black;
+  font-weight: bold;
+}
+
+/**
+ * CSS bar graph with Positive and Negative values
+ */
+.graph {
+  width: 100px;
+  border: 1px solid #aeaeae;
+  background-color: #eaeaea;
+}
